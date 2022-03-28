@@ -1,1 +1,1 @@
-# Ayrik Sistemler Icin İleri Olasilik dersinin ödevleri yer almaktadır.
+Ayrik Sistemler İçin İleri Olasilik dersinin ödevleri yer almaktadır.
